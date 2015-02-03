@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="BindingProjectTest2/BindingProjectTest2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingProjectTest2/ShareCode.linkwith.cs">
+    <Files>
+      <File FileName="BindingProjectTest2/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="../../Xcode/ShareCode/ShareCode.cs" Line="1" Column="1" />
+      <File FileName="BindingProjectTest2/ShareCode.linkwith.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
