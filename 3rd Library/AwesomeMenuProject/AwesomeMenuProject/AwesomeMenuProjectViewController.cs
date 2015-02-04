@@ -80,6 +80,31 @@ namespace AwesomeMenuProject
 			base.ViewDidDisappear (animated);
 		}
 
+		[Export ("awesomeMenu:didSelectIndex:")]
+		public void DidSelectIndex (AwesomeMenu.AwesomeMenu menu, nint idx)
+		{
+		}
+
+		[Export ("awesomeMenuDidFinishAnimationClose:")]
+		void AwesomeMenuDidFinishAnimationClose (AwesomeMenu.AwesomeMenu menu)
+		{
+		}
+
+		[Export ("awesomeMenuDidFinishAnimationOpen:")]
+		void AwesomeMenuDidFinishAnimationOpen (AwesomeMenu.AwesomeMenu menu)
+		{
+		}
+
+		[Export ("awesomeMenuWillAnimateOpen:")]
+		void AwesomeMenuWillAnimateOpen (AwesomeMenu.AwesomeMenu menu)
+		{
+		}
+
+		[Export ("awesomeMenuWillAnimateClose:")]
+		void AwesomeMenuWillAnimateClose (AwesomeMenu.AwesomeMenu menu)
+		{
+		}
+
 		#endregion
 	}
 }
