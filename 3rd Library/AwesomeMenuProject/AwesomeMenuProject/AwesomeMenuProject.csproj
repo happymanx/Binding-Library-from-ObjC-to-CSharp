@@ -101,6 +101,27 @@
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton-highlighted.imageset\bg-addbutton-highlighted.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton-highlighted.imageset\bg-addbutton-highlighted%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton-highlighted.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton.imageset\bg-addbutton.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton.imageset\bg-addbutton%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-addbutton.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem-highlighted.imageset\bg-menuitem-highlighted.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem-highlighted.imageset\bg-menuitem-highlighted%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem-highlighted.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem.imageset\bg-menuitem.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem.imageset\bg-menuitem%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\bg-menuitem.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus-highlighted.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus-highlighted.imageset\icon-plus-highlighted.png" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus-highlighted.imageset\icon-plus-highlighted%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus.imageset\icon-plus.png" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-plus.imageset\icon-plus%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-star.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-star.imageset\icon-star.png" />
+    <ImageAsset Include="Resources\Images.xcassets\icon-star.imageset\icon-star%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
@@ -119,4 +140,20 @@
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <ItemGroup>
+    <BundleResource Include="Resources\Images\bg-addbutton-highlighted.png" />
+    <BundleResource Include="Resources\Images\bg-addbutton-highlighted%402x.png" />
+    <BundleResource Include="Resources\Images\bg-addbutton.png" />
+    <BundleResource Include="Resources\Images\bg-addbutton%402x.png" />
+    <BundleResource Include="Resources\Images\bg-menuitem-highlighted.png" />
+    <BundleResource Include="Resources\Images\bg-menuitem-highlighted%402x.png" />
+    <BundleResource Include="Resources\Images\bg-menuitem.png" />
+    <BundleResource Include="Resources\Images\bg-menuitem%402x.png" />
+    <BundleResource Include="Resources\Images\icon-plus-highlighted.png" />
+    <BundleResource Include="Resources\Images\icon-plus-highlighted%402x.png" />
+    <BundleResource Include="Resources\Images\icon-plus.png" />
+    <BundleResource Include="Resources\Images\icon-plus%402x.png" />
+    <BundleResource Include="Resources\Images\icon-star.png" />
+    <BundleResource Include="Resources\Images\icon-star%402x.png" />
+  </ItemGroup>
 </Project>

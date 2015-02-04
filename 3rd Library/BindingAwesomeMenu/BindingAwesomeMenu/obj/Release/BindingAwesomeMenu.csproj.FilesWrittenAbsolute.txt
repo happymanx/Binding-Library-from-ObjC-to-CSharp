@@ -1,0 +1,5 @@
+/Users/jason/Projects/Binding-Library-from-ObjC-to-CSharp/3rd Library/BindingAwesomeMenu/BindingAwesomeMenu/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jason/Projects/Binding-Library-from-ObjC-to-CSharp/3rd Library/BindingAwesomeMenu/BindingAwesomeMenu/bin/Release/BindingAwesomeMenu.dll.mdb
+/Users/jason/Projects/Binding-Library-from-ObjC-to-CSharp/3rd Library/BindingAwesomeMenu/BindingAwesomeMenu/bin/Release/BindingAwesomeMenu.dll
+/Users/jason/Projects/Binding-Library-from-ObjC-to-CSharp/3rd Library/BindingAwesomeMenu/BindingAwesomeMenu/obj/Release/BindingAwesomeMenu.dll
+/Users/jason/Projects/Binding-Library-from-ObjC-to-CSharp/3rd Library/BindingAwesomeMenu/BindingAwesomeMenu/obj/Release/BindingAwesomeMenu.dll.mdb

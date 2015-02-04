@@ -1,0 +1,5 @@
+obj/Release/ios/ObjCRuntime/Messaging.g.cs
+obj/Release/ios/AwesomeMenu/AwesomeMenuItem.g.cs
+obj/Release/ios/AwesomeMenu/AwesomeMenuItemDelegate.g.cs
+obj/Release/ios/AwesomeMenu/AwesomeMenu.g.cs
+obj/Release/ios/AwesomeMenu/AwesomeMenuDelegate.g.cs
